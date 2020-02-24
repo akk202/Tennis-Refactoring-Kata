@@ -6,9 +6,6 @@ import java.util.Set;
 import org.junit.Assert;
 import org.junit.Test;
 
-import tennisgame1.refactoring1.NumericScore;
-
-
 public class NumericScoreTest {
 	@Test
 	public void testPairDescriptionDeuce() {
